@@ -1,9 +1,9 @@
 package Iterator;
 
-public class produto {
+public class Fruta {
     String nome;
 
-    public produto(String nome) {
+    public Fruta(String nome) {
         this.nome = nome;
     }
     
